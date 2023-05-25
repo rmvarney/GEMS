@@ -7,4 +7,6 @@ Genome sequencing becomes more accessible and powerful every year, but there is 
 Here find a fillable PDF form of the GEMS checklist.
 Upon completion of a study, your completed checklist can be uploaded here via a fork/pull request, in addition to inclusion in the supplementary materials of your manuscript.
 
-GEMS checklist version 2.0, updated 2023.05.23
+[Current checklist version: GEMS checklist version 2.0, updated 2023.05.23](https://github.com/rmvarney/GEMS/tree/GEMS-Checklist---Fillable-PDF)
+
+[Completed GEMS checklists](https://github.com/rmvarney/GEMS/tree/Completed-GEMS-Checklists)
